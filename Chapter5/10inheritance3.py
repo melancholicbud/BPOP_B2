@@ -37,4 +37,4 @@ print(f'new_class = {new_class.name}',
 NewTextTest.name = "Not bad"
 print(f'new_class = {new_class.name}',
       f' NewTextTest = {NewTextTest.name}',
-      f'BaseTextTest = {BaseTextTest.name}')
+      f'BaseTextTest = {BaseTextTest.name}') 
